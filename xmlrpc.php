@@ -1,6 +1,6 @@
 <?php
-//  Coded by Zeerx7  //
-// XploitSecurity-ID // 
+//  Coded by DarkSkull7  //
+// Brave-ID // 
 
 /*  mau liat liat apa om?
     Mau Record ya? cuihh
